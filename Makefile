@@ -1,4 +1,4 @@
-TARG = essence-and-origins-of-frp
+TARG = more-elegant-frp
 
 .PRECIOUS: %.tex %.pdf %.web
 
