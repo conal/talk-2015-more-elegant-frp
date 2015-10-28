@@ -2,7 +2,8 @@
 
 A talk given at [LambdaJam](lambdajam.com) 2015 (July 15--16).
 
-Slides (PDF): [without builds](http://conal.net/talks/more-elegant-frp-lambdajam-2015.pdf), or [with](http://conal.net/talks/more-elegant-frp-lambdajam-2015-with-builds.pdf).
+*    Slides (PDF): [without builds](http://conal.net/talks/more-elegant-frp-lambdajam-2015.pdf), or [with](http://conal.net/talks/more-elegant-frp-lambdajam-2015-with-builds.pdf).
+*    [Video](https://www.youtube.com/watch?v=j3Q32brCUAI)
 
 ### Abstract
 
