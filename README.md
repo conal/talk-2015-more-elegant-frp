@@ -3,7 +3,10 @@
 A talk given at [LambdaJam](lambdajam.com) 2015 (July 15--16).
 
 *    Slides (PDF): [without builds](http://conal.net/talks/more-elegant-frp-lambdajam-2015.pdf), or [with](http://conal.net/talks/more-elegant-frp-lambdajam-2015-with-builds.pdf).
-*    [Video](https://www.youtube.com/watch?v=teRC_Lf61Gw)
+*   [Video](https://www.youtube.com/watch?v=teRC_Lf61Gw)
+*   Related talks:
+    *    [The essence and origins of Functional Reactive Programming](https://github.com/conal/talk-2015-essence-and-origins-of-frp)
+    *    [Denotational Design: from meanings to programs](https://github.com/conal/talk-2014-lambdajam-denotational-design)
 
 ### Abstract
 
